@@ -104,8 +104,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
 
-- [ ] [TryHackMe | Principles of Security](https://tryhackme.com/room/principlesofsecurity)
-
 - [ ] [TryHackMe | The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
 
 - [ ] [TryHackMe | Physical Security Intro](https://tryhackme.com/room/physicalsecurityintro)
